@@ -1,4 +1,4 @@
-# Staging Area -  http://charlesbeganskas.info
+# Staging Area -  [git.charlesbeganskas.info][3]
 
 Version control for staging changes to [charlesbeganskas.info][1]
 
